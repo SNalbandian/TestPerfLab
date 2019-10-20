@@ -78,7 +78,6 @@ public class Main {
 
         }
 
-        //int[] array = initializeArray();
         double percent = percentiles(array);
         double median = median(array);
         double max = max(array);
