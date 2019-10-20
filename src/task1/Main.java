@@ -1,4 +1,4 @@
-package com.company;
+package task1;
 
 import java.io.*;
 import java.util.ArrayList;
